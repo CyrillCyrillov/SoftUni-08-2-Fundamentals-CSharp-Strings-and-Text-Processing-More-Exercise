@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\08_Exercise_More\Task03_Treasure_Finder\bin\Debug\netcoreapp3.1\Task03_Treasure_Finder.exe
+C:\Users\Kiril\source\repos\08_Exercise_More\Task03_Treasure_Finder\bin\Debug\netcoreapp3.1\Task03_Treasure_Finder.deps.json
+C:\Users\Kiril\source\repos\08_Exercise_More\Task03_Treasure_Finder\bin\Debug\netcoreapp3.1\Task03_Treasure_Finder.runtimeconfig.json
+C:\Users\Kiril\source\repos\08_Exercise_More\Task03_Treasure_Finder\bin\Debug\netcoreapp3.1\Task03_Treasure_Finder.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\08_Exercise_More\Task03_Treasure_Finder\bin\Debug\netcoreapp3.1\Task03_Treasure_Finder.dll
+C:\Users\Kiril\source\repos\08_Exercise_More\Task03_Treasure_Finder\bin\Debug\netcoreapp3.1\Task03_Treasure_Finder.pdb
+C:\Users\Kiril\source\repos\08_Exercise_More\Task03_Treasure_Finder\obj\Debug\netcoreapp3.1\Task03_Treasure_Finder.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\08_Exercise_More\Task03_Treasure_Finder\obj\Debug\netcoreapp3.1\Task03_Treasure_Finder.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\08_Exercise_More\Task03_Treasure_Finder\obj\Debug\netcoreapp3.1\Task03_Treasure_Finder.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\08_Exercise_More\Task03_Treasure_Finder\obj\Debug\netcoreapp3.1\Task03_Treasure_Finder.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\08_Exercise_More\Task03_Treasure_Finder\obj\Debug\netcoreapp3.1\Task03_Treasure_Finder.dll
+C:\Users\Kiril\source\repos\08_Exercise_More\Task03_Treasure_Finder\obj\Debug\netcoreapp3.1\Task03_Treasure_Finder.pdb
+C:\Users\Kiril\source\repos\08_Exercise_More\Task03_Treasure_Finder\obj\Debug\netcoreapp3.1\Task03_Treasure_Finder.genruntimeconfig.cache
