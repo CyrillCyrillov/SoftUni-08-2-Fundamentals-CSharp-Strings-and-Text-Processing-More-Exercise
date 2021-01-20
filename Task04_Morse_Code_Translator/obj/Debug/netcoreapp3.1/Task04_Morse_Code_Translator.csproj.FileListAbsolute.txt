@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\08_Exercise_More\Task04_Morse_Code_Translator\bin\Debug\netcoreapp3.1\Task04_Morse_Code_Translator.exe
+C:\Users\Kiril\source\repos\08_Exercise_More\Task04_Morse_Code_Translator\bin\Debug\netcoreapp3.1\Task04_Morse_Code_Translator.deps.json
+C:\Users\Kiril\source\repos\08_Exercise_More\Task04_Morse_Code_Translator\bin\Debug\netcoreapp3.1\Task04_Morse_Code_Translator.runtimeconfig.json
+C:\Users\Kiril\source\repos\08_Exercise_More\Task04_Morse_Code_Translator\bin\Debug\netcoreapp3.1\Task04_Morse_Code_Translator.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\08_Exercise_More\Task04_Morse_Code_Translator\bin\Debug\netcoreapp3.1\Task04_Morse_Code_Translator.dll
+C:\Users\Kiril\source\repos\08_Exercise_More\Task04_Morse_Code_Translator\bin\Debug\netcoreapp3.1\Task04_Morse_Code_Translator.pdb
+C:\Users\Kiril\source\repos\08_Exercise_More\Task04_Morse_Code_Translator\obj\Debug\netcoreapp3.1\Task04_Morse_Code_Translator.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\08_Exercise_More\Task04_Morse_Code_Translator\obj\Debug\netcoreapp3.1\Task04_Morse_Code_Translator.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\08_Exercise_More\Task04_Morse_Code_Translator\obj\Debug\netcoreapp3.1\Task04_Morse_Code_Translator.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\08_Exercise_More\Task04_Morse_Code_Translator\obj\Debug\netcoreapp3.1\Task04_Morse_Code_Translator.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\08_Exercise_More\Task04_Morse_Code_Translator\obj\Debug\netcoreapp3.1\Task04_Morse_Code_Translator.dll
+C:\Users\Kiril\source\repos\08_Exercise_More\Task04_Morse_Code_Translator\obj\Debug\netcoreapp3.1\Task04_Morse_Code_Translator.pdb
+C:\Users\Kiril\source\repos\08_Exercise_More\Task04_Morse_Code_Translator\obj\Debug\netcoreapp3.1\Task04_Morse_Code_Translator.genruntimeconfig.cache
